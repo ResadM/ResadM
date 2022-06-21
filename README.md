@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Rashad</h1>
 <h3 align="center">A passionate full stack developer from Azerbaijan</h3>
 
-<p align="center">  </p>
 <div id="badges" align="center">
   <a href="">
   <img src="https://komarev.com/ghpvc/?username=resadm&label=Profile%20views&color=0e75b6&style=flat" alt="resadm" />
