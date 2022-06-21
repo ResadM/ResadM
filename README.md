@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate full stack developer from Azerbaijan</h3>
 
 <div id="badges" align="center">
-  <a href="">
+  <a href="https://github.com/ResadM">
   <img src="https://komarev.com/ghpvc/?username=resadm&label=Profile%20views&color=0e75b6&style=flat" alt="resadm" />
   </a>
   </p>
