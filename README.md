@@ -18,11 +18,12 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate full stack developer from Azerbaijan</h3>
 
 <p align="center">  </p>
-<div id="badges">
+<div id="badges" align="center">
   <a href="">
   <img src="https://komarev.com/ghpvc/?username=resadm&label=Profile%20views&color=0e75b6&style=flat" alt="resadm" />
   </a>
-  <a href="www.linkedin.com/in/rasadmammadov">
+  </p>
+  <a href="https://www.linkedin.com/in/rasadmammadov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> 
 </div>
