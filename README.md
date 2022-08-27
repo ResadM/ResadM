@@ -17,18 +17,32 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<h1 align="center">Hi 👋, I'm Rashad</h1>
-<h3 align="center">A passionate full stack developer from Azerbaijan</h3>
+<h1 align="center">Hi everyone👋. My name is Rashad</h1>
+<h3 align="center">I am full stack .Net developer from Azerbaijan.</h3>
 
 <div id="badges" align="center">
   <a href="https://github.com/ResadM">
   <img src="https://komarev.com/ghpvc/?username=resadm&label=Profile%20views&color=0e75b6&style=flat" alt="resadm" />
   </a>
-  </p>
-  <a href="https://www.linkedin.com/in/rasadmammadov/">
+  </p> 
+</div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+ <a href="https://www.linkedin.com/in/rasadmammadov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> 
-</div>
+  <a href="https://www.hackerrank.com/repko_25">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt=""/>
+  </a> 
+   <a href="https://www.leetcode.com/repko">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt=""/>
+  </a> 
+   <a href="https://codesandbox.com/resadm">
+    <img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB" alt=""/>
+  </a> 
+</p>
+
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -44,4 +58,7 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp; 
 </div>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ResadM&langs_count=8)](https://github.com/ResadM/github-readme-stats)
 
