@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Top Langs](https://github-readme-stats-three-kappa-71.vercel.app/api/top-langs/?username=ResadM&langs_count=5)](https://github.com/ResadM/github-readme-stats)
+![Top Langs](https://github-readme-stats-three-kappa-71.vercel.app/api/top-langs/?username=ResadM&theme=tokyonight)
 -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -60,7 +62,6 @@ Here are some ideas to get you started:
 </div>
 
 
-[![Top Langs](https://github-readme-stats-three-kappa-71.vercel.app/api/top-langs/?username=ResadM&langs_count=8)](https://github.com/ResadM/github-readme-stats)
-![Top Langs](https://github-readme-stats-three-kappa-71.vercel.app/api/top-langs/?username=ResadM&theme=tokyonight)
+
 ![Rashad's GitHub stats](https://github-readme-stats-three-kappa-71.vercel.app/api?username=ResadM&count_private=true)
 
