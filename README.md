@@ -60,5 +60,7 @@ Here are some ideas to get you started:
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ResadM&langs_count=8)](https://github.com/ResadM/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ResadM&langs_count=10)](https://github.com/ResadM/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ResadM&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ResadM&count_private=true)
 
