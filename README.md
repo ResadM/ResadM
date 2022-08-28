@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<h1 align="center">Hi everyone👋. My name is Rashad</h1>
+<h1 align="center">Hi everyone👋. My name is Rashad.</h1>
 <h3 align="center">I am full stack .Net developer from Azerbaijan.</h3>
 
 <div id="badges" align="center">
