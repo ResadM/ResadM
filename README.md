@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Hi everyone👋. My name is Rashad.</h1>
-<h3 align="center"></h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <div id="badges" align="center">
   <a href="https://github.com/ResadM">
