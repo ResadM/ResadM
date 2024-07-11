@@ -22,8 +22,10 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<h1 align="center">Hi everyone👋. My name is Rashad.</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="center">Hi everyone👋. My name is Rashad Mammadov.</h1>
+<h3 align="center">I'm a passionate full-stack developer with experience in building web and desktop applications from the ground up. I love turning ideas into reality through code and am always excited to learn new technologies.</h3>
+</p>
+
 
 <div id="badges" align="center">
   <a href="https://github.com/ResadM">
