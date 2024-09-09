@@ -32,7 +32,8 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=resadm&label=Profile%20views&color=0e75b6&style=flat" alt="resadm" />
   </a>
   </p> 
-  <p><a href="https://www.rashadmammadov.dev" target="_blank" rel="noreferrer" >Portfolio</a></p>
+
+  [PORTFOLIO](https://www.rashadmammadov.dev)
 </div>
 
 <h3 align="left">Connect with me:</h3>
