@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   </a>
   </p> 
 
-  [PORTFOLIO](https://www.rashadmammadov.dev)
+  [PORTFOLIO](https://rashadmammadov.dev)
 </div>
 
 <h3 align="left">Connect with me:</h3>
